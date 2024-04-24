@@ -1,2 +1,2 @@
 # DigitRecognition
-a handwritten digit recognition model mad using python language and CNN concepts
+a handwritten digit recognitionprogram using python language and CNN concepts
